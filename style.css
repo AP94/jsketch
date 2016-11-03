@@ -1,6 +1,6 @@
 body {
 
-	background-color: #D3D3D3;
+	background-color: #B3B3B3;
 }
 
 #container {
@@ -24,8 +24,15 @@ table {
 	height: 40px;
 }
 
-.floating {
+.ib {
 	display: inline-block;
 	width: 40px;
 	height: 36px;
+}
+
+.painted {
+	background-color: #0c3c89;
+}
+
+.gridsquare {
 }
